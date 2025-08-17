@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "E-Commerce UI",
+    "tags": [
+      "React",
+      "Tailwind"
+    ],
+    "stars": 45
+  },
+  {
+    "id": 2,
+    "name": "Admin Dashboard",
+    "tags": [
+      "Vite",
+      "TypeScript"
+    ],
+    "stars": 32
+  },
+  {
+    "id": 3,
+    "name": "Portfolio Site",
+    "tags": [
+      "SPA",
+      "Responsive"
+    ],
+    "stars": 27
+  }
+]
